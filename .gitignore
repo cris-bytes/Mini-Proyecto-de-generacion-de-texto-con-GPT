@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.cache/
+*.log
+artifacts/*.pt
+artifacts/tokenizer.json
+artifacts/runtime.json
+artifacts/reproducibility_check.json

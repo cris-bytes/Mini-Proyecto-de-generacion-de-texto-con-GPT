@@ -1,0 +1,9 @@
+# Entorno de referencia: Python 3.9, CPU. Python 3.10-3.12 también admitido.
+numpy==2.0.2
+pandas==2.3.3
+matplotlib==3.9.4
+torch==2.8.0
+tokenizers==0.22.2
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.31.0

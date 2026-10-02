@@ -1,0 +1,8 @@
+{
+  "ejecuciones_completas": 2,
+  "celdas_codigo_version_final": 24,
+  "errores": 0,
+  "diferencia_maxima_metricas_modelos_principales": 0.0,
+  "generaciones_identicas": true,
+  "observacion": "Segunda ejecución añade diagnóstico de checkpoint final y compara copia con todas las variantes de train."
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "tema":"memoria",
+    "consulta":"una carta con recuerdos de la infancia",
+    "recuperacion":false,
+    "texto":"Elena esperaba yeaban. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la canciónntajuntasia, por primera finras.",
+    "continuacion":"Elena esperaba yeaban. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la canciónntajuntasia, por primera finras.",
+    "eos":true,
+    "tokens_nuevos":73,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":36,
+    "distinct2":0.9714285714,
+    "copia5":0.03125,
+    "jaccard_max":0.0428571429,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"memoria",
+    "consulta":"una carta con recuerdos de la infancia",
+    "recuperacion":true,
+    "texto":"En el parque, Ana vendía recuerdos dentro de pequeños frascos. A la piedra y calor. or primera finguna que años. Soradontos de una palabrase. C reconoció la mar de la canciónerse, sin una carta fingunasdo el fal encontró lasos de una bjasa una historia añoslao. La devía.",
+    "continuacion":" A la piedra y calor. or primera finguna que años. Soradontos de una palabrase. C reconoció la mar de la canciónerse, sin una carta fingunasdo el fal encontró lasos de una bjasa una historia añoslao. La devía.",
+    "eos":true,
+    "tokens_nuevos":71,
+    "prefijo_recuperado":"En el parque, Ana vendía recuerdos dentro de pequeños frascos.",
+    "fuentes":[
+      {
+        "id":"memoria-01-00",
+        "familia":"memoria-01",
+        "score":6.3006409394
+      }
+    ],
+    "palabras":37,
+    "distinct2":0.9722222222,
+    "copia5":0.0,
+    "jaccard_max":0.0135135135,
+    "tema_lexico":1.0
+  },
+  {
+    "tema":"memoria",
+    "consulta":"una fotografía y el recuerdo de una casa",
+    "recuperacion":false,
+    "texto":"Elena esperaba yeaban. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la canciónntajuntasia, por primera finras.",
+    "continuacion":"Elena esperaba yeaban. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la canciónntajuntasia, por primera finras.",
+    "eos":true,
+    "tokens_nuevos":73,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":36,
+    "distinct2":0.9714285714,
+    "copia5":0.03125,
+    "jaccard_max":0.0428571429,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"memoria",
+    "consulta":"una fotografía y el recuerdo de una casa",
+    "recuperacion":true,
+    "texto":"Ana barría las calles de el pueblo a las seis. A las diez, la parearato alse. P mar deciro una ciudadradontaba.",
+    "continuacion":" A las diez, la parearato alse. P mar deciro una ciudadradontaba.",
+    "eos":true,
+    "tokens_nuevos":25,
+    "prefijo_recuperado":"Ana barría las calles de el pueblo a las seis.",
+    "fuentes":[
+      {
+        "id":"ciudad-02-00",
+        "familia":"ciudad-02",
+        "score":1.7851565023
+      }
+    ],
+    "palabras":11,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0434782609,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"ciudad",
+    "consulta":"un bus recorre las calles del barrio",
+    "recuperacion":false,
+    "texto":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro deba que el pueblo. So dóndela. Comos del bus a volo había un númercu cada vez, pero la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "continuacion":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro deba que el pueblo. So dóndela. Comos del bus a volo había un númercu cada vez, pero la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "eos":true,
+    "tokens_nuevos":73,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":43,
+    "distinct2":0.9761904762,
+    "copia5":0.0512820513,
+    "jaccard_max":0.0666666667,
+    "tema_lexico":1.0
+  },
+  {
+    "tema":"ciudad",
+    "consulta":"un bus recorre las calles del barrio",
+    "recuperacion":true,
+    "texto":"Ana barría las calles de el pueblo a las seis. A la fecha de la pare.  alser en el convers alci alguarse. Sojaba una minguió la puerta. Es noió la ventanan su sin que llev b e, el fmaba una solo había naitur.",
+    "continuacion":" A la fecha de la pare.  alser en el convers alci alguarse. Sojaba una minguió la puerta. Es noió la ventanan su sin que llev b e, el fmaba una solo había naitur.",
+    "eos":true,
+    "tokens_nuevos":60,
+    "prefijo_recuperado":"Ana barría las calles de el pueblo a las seis.",
+    "fuentes":[
+      {
+        "id":"ciudad-02-00",
+        "familia":"ciudad-02",
+        "score":6.0626394726
+      }
+    ],
+    "palabras":33,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0151515152,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"ciudad",
+    "consulta":"ventanas y edificios en una ciudad",
+    "recuperacion":false,
+    "texto":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro deba que el pueblo. So dóndela. Comos del bus a volo había un númercu cada vez, pero la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "continuacion":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro deba que el pueblo. So dóndela. Comos del bus a volo había un númercu cada vez, pero la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "eos":true,
+    "tokens_nuevos":73,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":43,
+    "distinct2":0.9761904762,
+    "copia5":0.0512820513,
+    "jaccard_max":0.0666666667,
+    "tema_lexico":1.0
+  },
+  {
+    "tema":"ciudad",
+    "consulta":"ventanas y edificios en una ciudad",
+    "recuperacion":true,
+    "texto":"En el parque, los edificios crecían un piso cada noche. A la plaza. Sca habían ortión día siguiente. La pág, pero antas de gu la ventanase.",
+    "continuacion":" A la plaza. Sca habían ortión día siguiente. La pág, pero antas de gu la ventanase.",
+    "eos":true,
+    "tokens_nuevos":30,
+    "prefijo_recuperado":"En el parque, los edificios crecían un piso cada noche.",
+    "fuentes":[
+      {
+        "id":"ciudad-05-00",
+        "familia":"ciudad-05",
+        "score":5.4020675932
+      }
+    ],
+    "palabras":16,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0192307692,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"naturaleza",
+    "consulta":"un árbol crece junto al río",
+    "recuperacion":false,
+    "texto":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "continuacion":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "eos":true,
+    "tokens_nuevos":73,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":39,
+    "distinct2":0.9736842105,
+    "copia5":0.0571428571,
+    "jaccard_max":0.0704225352,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"naturaleza",
+    "consulta":"un árbol crece junto al río",
+    "recuperacion":true,
+    "texto":"En el parque, Ana escuchó cantar al río a mediodía. A la piedra y si a medianoche llegó al agua cubavo algo, peroo al aguaarlos.",
+    "continuacion":" A la piedra y si a medianoche llegó al agua cubavo algo, peroo al aguaarlos.",
+    "eos":true,
+    "tokens_nuevos":25,
+    "prefijo_recuperado":"En el parque, Ana escuchó cantar al río a mediodía.",
+    "fuentes":[
+      {
+        "id":"naturaleza-01-00",
+        "familia":"naturaleza-01",
+        "score":4.0351142834
+      }
+    ],
+    "palabras":15,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0212765957,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"naturaleza",
+    "consulta":"las flores y las semillas de un jardín",
+    "recuperacion":false,
+    "texto":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "continuacion":"Elena esperaba el último bus. Durante term parque. A mediodía llegó uno dentro debaara antas buscar la ventana para el pueblo. B tazoutonlu sin fubió y la puertado ella, el pueblo, el árboles, la su prjuntasia, por primera finras.",
+    "eos":true,
+    "tokens_nuevos":73,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":39,
+    "distinct2":0.9736842105,
+    "copia5":0.0571428571,
+    "jaccard_max":0.0704225352,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"naturaleza",
+    "consulta":"las flores y las semillas de un jardín",
+    "recuperacion":true,
+    "texto":"Ana plantó un jardín en la estación para recordar a alguien. A la piedra y si a convers en la se habían en el fin embargo, cuiaru sobre una historia mingu lar un cró la estación.",
+    "continuacion":" A la piedra y si a convers en la se habían en el fin embargo, cuiaru sobre una historia mingu lar un cró la estación.",
+    "eos":true,
+    "tokens_nuevos":37,
+    "prefijo_recuperado":"Ana plantó un jardín en la estación para recordar a alguien.",
+    "fuentes":[
+      {
+        "id":"naturaleza-11-00",
+        "familia":"naturaleza-11",
+        "score":5.2375162905
+      }
+    ],
+    "palabras":25,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"tecnologia",
+    "consulta":"un robot aprende a hablar con una máquina",
+    "recuperacion":false,
+    "texto":"Elena la plaza, Daniel encontró un nuetió en el pueblo. La pcar rezaba a sobre una historia. La arvaba. Escuchólo. La margió la pantalla y océemaba una solaos de una burr una historia, era decirva.",
+    "continuacion":"Elena la plaza, Daniel encontró un nuetió en el pueblo. La pcar rezaba a sobre una historia. La arvaba. Escuchólo. La margió la pantalla y océemaba una solaos de una burr una historia, era decirva.",
+    "eos":true,
+    "tokens_nuevos":71,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":35,
+    "distinct2":0.9705882353,
+    "copia5":0.0,
+    "jaccard_max":0.0298507463,
+    "tema_lexico":1.0
+  },
+  {
+    "tema":"tecnologia",
+    "consulta":"un robot aprende a hablar con una máquina",
+    "recuperacion":true,
+    "texto":"Ana encendió un robot en la plaza. A la plaza, la pare mediodía, alse a dos mar de alraba a visio dóndentos de una palabgunanta. Cuando por plazaumuerse. Bajó, Tomás aabara el manual y una funos de una bjas delntaruntas de y olores. Eal el ota era de seña vez, nadiei alguien,brió falouventroó se pos. Al a unad una ciudad loaba en la mañana comlostitir.",
+    "continuacion":" A la plaza, la pare mediodía, alse a dos mar de alraba a visio dóndentos de una palabgunanta. Cuando por plazaumuerse. Bajó, Tomás aabara el manual y una funos de una bjas delntaruntas de y olores. Eal el ota era de seña vez, nadiei alguien,brió falouventroó se pos. Al a unad una ciudad loaba en la mañana comlostitir.",
+    "eos":true,
+    "tokens_nuevos":117,
+    "prefijo_recuperado":"Ana encendió un robot en la plaza.",
+    "fuentes":[
+      {
+        "id":"tecnologia-00-00",
+        "familia":"tecnologia-00",
+        "score":5.8718280034
+      }
+    ],
+    "palabras":59,
+    "distinct2":0.9827586207,
+    "copia5":0.0,
+    "jaccard_max":0.0108695652,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"tecnologia",
+    "consulta":"una pantalla y un servidor guardan mensajes",
+    "recuperacion":false,
+    "texto":"Elena la plaza, Daniel encontró un nuetió en el pueblo. La pcar rezaba a sobre una historia. La arvaba. Escuchólo. La margió la pantalla y océemaba una solaos de una burr una historia, era decirva.",
+    "continuacion":"Elena la plaza, Daniel encontró un nuetió en el pueblo. La pcar rezaba a sobre una historia. La arvaba. Escuchólo. La margió la pantalla y océemaba una solaos de una burr una historia, era decirva.",
+    "eos":true,
+    "tokens_nuevos":71,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":35,
+    "distinct2":0.9705882353,
+    "copia5":0.0,
+    "jaccard_max":0.0298507463,
+    "tema_lexico":1.0
+  },
+  {
+    "tema":"tecnologia",
+    "consulta":"una pantalla y un servidor guardan mensajes",
+    "recuperacion":true,
+    "texto":"A las diez, Ana pidió a una pantalla que mostrara el futuro de la estación. A la mañana y si a vo con aselonasiado el finalo. El sobre una historia. Desde entonces, los hac.",
+    "continuacion":" A la mañana y si a vo con aselonasiado el finalo. El sobre una historia. Desde entonces, los hac.",
+    "eos":true,
+    "tokens_nuevos":34,
+    "prefijo_recuperado":"A las diez, Ana pidió a una pantalla que mostrara el futuro de la estación.",
+    "fuentes":[
+      {
+        "id":"tecnologia-03-00",
+        "familia":"tecnologia-03",
+        "score":4.0351142834
+      }
+    ],
+    "palabras":19,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0188679245,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"mar",
+    "consulta":"un barco y una isla en el océano",
+    "recuperacion":false,
+    "texto":"Elena la plaza, Daniel encontró una bormido en el pueblo. A las seis, la antas encontró una mingu.",
+    "continuacion":"Elena la plaza, Daniel encontró una bormido en el pueblo. A las seis, la antas encontró una mingu.",
+    "eos":true,
+    "tokens_nuevos":30,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":18,
+    "distinct2":0.9411764706,
+    "copia5":0.2142857143,
+    "jaccard_max":0.0980392157,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"mar",
+    "consulta":"un barco y una isla en el océano",
+    "recuperacion":true,
+    "texto":"Ana dibujó una isla en la arena de la plaza. A la piedra y la pare. or primera vez día siguiente, alcio una ciudad. Ant tibiado el mano. Cuando por cambi.",
+    "continuacion":" A la piedra y la pare. or primera vez día siguiente, alcio una ciudad. Ant tibiado el mano. Cuando por cambi.",
+    "eos":true,
+    "tokens_nuevos":36,
+    "prefijo_recuperado":"Ana dibujó una isla en la arena de la plaza.",
+    "fuentes":[
+      {
+        "id":"mar-04-00",
+        "familia":"mar-04",
+        "score":3.1844062129
+      }
+    ],
+    "palabras":21,
+    "distinct2":1.0,
+    "copia5":0.0,
+    "jaccard_max":0.0,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"mar",
+    "consulta":"una carta llega con las olas del mar",
+    "recuperacion":false,
+    "texto":"Elena la plaza, Daniel encontró una bormido en el pueblo. A las seis, la antas encontró una mingu.",
+    "continuacion":"Elena la plaza, Daniel encontró una bormido en el pueblo. A las seis, la antas encontró una mingu.",
+    "eos":true,
+    "tokens_nuevos":30,
+    "prefijo_recuperado":"",
+    "fuentes":[
+
+    ],
+    "palabras":18,
+    "distinct2":0.9411764706,
+    "copia5":0.2142857143,
+    "jaccard_max":0.0980392157,
+    "tema_lexico":0.0
+  },
+  {
+    "tema":"mar",
+    "consulta":"una carta llega con las olas del mar",
+    "recuperacion":true,
+    "texto":"Ana esperaba una carta frente al mar de el pueblo. A la piedra y calor. or primera fn para aquecio lugar sinasos de el mingunas y reconoció la plaza. Uuerse. A la puerta, Ana la ventanae, a una solaos de café.",
+    "continuacion":" A la piedra y calor. or primera fn para aquecio lugar sinasos de el mingunas y reconoció la plaza. Uuerse. A la puerta, Ana la ventanae, a una solaos de café.",
+    "eos":true,
+    "tokens_nuevos":57,
+    "prefijo_recuperado":"Ana esperaba una carta frente al mar de el pueblo.",
+    "fuentes":[
+      {
+        "id":"mar-06-00",
+        "familia":"mar-06",
+        "score":4.6520295492
+      }
+    ],
+    "palabras":31,
+    "distinct2":0.9666666667,
+    "copia5":0.0,
+    "jaccard_max":0.0158730159,
+    "tema_lexico":0.0
+  }
+]

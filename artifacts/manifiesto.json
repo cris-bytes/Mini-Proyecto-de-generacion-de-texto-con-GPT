@@ -1,0 +1,48 @@
+{
+  "runtime": {
+    "python": "3.9.6",
+    "plataforma": "macOS-15.7.7-arm64-arm-64bit",
+    "semilla": 17,
+    "dispositivo": "cpu",
+    "threads": 4,
+    "versiones": {
+      "torch": "2.8.0",
+      "numpy": "2.0.2",
+      "pandas": "2.3.3",
+      "tokenizers": "0.22.2",
+      "matplotlib": "3.9.4"
+    }
+  },
+  "seed": 17,
+  "epochs": 24,
+  "configs": [
+    {
+      "name": "GRU-128",
+      "kind": "gru",
+      "dim": 128,
+      "layers": 1,
+      "lr": 0.002
+    },
+    {
+      "name": "GPT-1c",
+      "kind": "gpt",
+      "dim": 96,
+      "layers": 1,
+      "lr": 0.002
+    },
+    {
+      "name": "GPT-3c",
+      "kind": "gpt",
+      "dim": 96,
+      "layers": 3,
+      "lr": 0.002
+    }
+  ],
+  "best_validation": "GRU-128",
+  "best_gpt": "GPT-3c",
+  "sha256": {
+    "data/familias.json": "69e6edfaacf92be3bc5320388c5950278c3135c7fe2b72bae550fc5a4b26c47a",
+    "data/microcuentos.csv": "e36de3fad9492e22fe023e9d0bf6d170db760225da5408951d09012dceac9c31",
+    "artifacts/tokenizer.json": "34374775a0eba950be2e123f57a159cb5753471abeb627aea81570b9af9a42a4"
+  }
+}
