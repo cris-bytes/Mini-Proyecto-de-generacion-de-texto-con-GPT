@@ -1,5 +1,8 @@
-# Microcuentos en español con GPT
+**Procesamiento de Lenguaje Natural · ICESI**  
+**Grupo:** X-Ray<br>
+**Integrantes:** Cristian Camilo Quebrada · Edwin Perez L · Ruben Dario Sabogal<br>
 
+# Microcuentos en español con GPT
 Mini-proyecto de generación de texto para el curso de PLN. Caso propio inspirado en la separación entre recuperación y generación del [material de Sesión 5](https://github.com/Ohtar10/icesi-nlp/tree/main/Sesion5).
 
 **Entregable principal: [Microcuentos_GPT.ipynb](Microcuentos_GPT.ipynb)**. Incluye explicación del problema, EDA, implementación visible, entrenamiento desde cero, resultados, gráficos, generaciones y conclusiones.
